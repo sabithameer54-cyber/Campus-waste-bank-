@@ -1,0 +1,8 @@
+{
+  "name": "Remix Campus Waste Bank \u0026 Super-Hub",
+  "description": "Campus circular economy, peer reuse marketplace, eco sustainability tracker, and academic super-hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
